@@ -1,0 +1,7 @@
+1.c:\Users\Siyabonga Khanyile
+2.change directory
+4.newfile.txt
+9.clears the screen
+10.192.168.1.115
+11.date -> 2025/07/16
+   time -> 14:38
